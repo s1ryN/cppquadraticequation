@@ -1,1 +1,2 @@
 # cppquadraticequation
+Řešení kvadratické rovnice
